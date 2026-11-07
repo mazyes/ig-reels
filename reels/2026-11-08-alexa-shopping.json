@@ -1,0 +1,21 @@
+{
+  "handle": "@yourhandle",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+  "hook_score": 63.8,
+  "slides": [
+    {"say": "Amazon's Alexa now shops for millions of people. Your store could lose sales.",
+     "broll": "online shopping phone night", "highlight": ["alexa", "millions", "lose"]},
+    {"say": "Amazon just said shoppers can now text Alexa to help them shop. It rolls out to millions of users in the coming weeks.",
+     "broll": "person texting smartphone city", "highlight": ["text", "millions"]},
+    {"say": "That means a customer asks the AI, and the AI picks the product. They never open Google. They never see your website.",
+     "broll": "empty store dark", "highlight": ["AI", "never"]},
+    {"say": "If an AI assistant can't read your prices, your reviews and your stock, it won't recommend you.",
+     "broll": "laptop code dark office", "highlight": ["read", "recommend"]},
+    {"say": "So this week, put your prices, your reviews and your FAQs on your website in plain text. Not hidden in images.",
+     "broll": "entrepreneur laptop coffee morning", "highlight": ["prices", "reviews", "FAQs"]},
+    {"say": "Follow for one AI move for your business, every day.",
+     "broll": "city skyline night timelapse", "highlight": ["follow", "every"]}
+  ],
+  "caption": "AI assistants are starting to choose what people buy. If they can't read your business, you're invisible.\n\nAmazon now lets shoppers text Alexa to help them shop, rolling out to millions in the coming weeks.\n\nThe fix is boring and free: prices, reviews and FAQs on your site as real text.\n\nSource: TechCrunch\n\n#ainews #smallbusiness #amazon #alexa #ecommerce"
+}
